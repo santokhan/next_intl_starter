@@ -2,10 +2,11 @@
 
 import { Geist, Geist_Mono } from "next/font/google"
 import "./globals.css"
-import { hasLocale, NextIntlClientProvider } from "next-intl"
+import { NextIntlClientProvider } from "next-intl"
 import { getMessages } from "next-intl/server"
 import { notFound } from "next/navigation"
-import { routing } from "@/i18n/routing"
+import { twMerge } from "tailwind-merge"
+import Header from "@/components/ui/header/Index"
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -36,8 +37,9 @@ export default async function LocaleLayout({ children, params }) {
 
   return (
     <html lang={locale}>
-      <body>
+      <body className={twMerge(geistSans.variable, geistMono.variable)}>
         <NextIntlClientProvider locale={locale} messages={messages}>
+          <Header locale={locale} />
           {children}
         </NextIntlClientProvider>
       </body>
