@@ -1,5 +1,46 @@
 {
   "Index": {
-    "title": "Hello world! in German"
+    "title": "Hallo Welt!",
+    "subtitle": "Willkommen auf unserer Website",
+    "description": "Wir freuen uns, dass Sie hier sind.",
+    "cta": "Loslegen"
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "contact": "Kontakt"
+  },
+  "Footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzrichtlinie"
+  },
+  "Auth": {
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "register": "Konto erstellen",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort"
+  },
+  "Errors": {
+    "404": "Seite nicht gefunden",
+    "500": "Interner Serverfehler",
+    "required": "Dieses Feld ist erforderlich",
+    "invalid_email": "Ungültige E-Mail-Adresse"
+  },
+  "About": {
+    "title": "Über uns",
+    "headline": "Getrieben von Innovation, verpflichtet zur Qualität",
+    "mission": "Unsere Mission ist es, erstklassige Lösungen zu liefern, die auf Ihre Bedürfnisse zugeschnitten sind.",
+    "vision": "Wir stellen uns eine Zukunft vor, in der Technologie jede Person und jedes Unternehmen befähigt.",
+    "values": {
+      "integrity": "Integrität",
+      "excellence": "Exzellenz",
+      "innovation": "Innovation",
+      "collaboration": "Zusammenarbeit"
+    },
+    "team_heading": "Unser Team",
+    "team_description": "Wir sind ein Team leidenschaftlicher Fachleute, das sich dem Aufbau großartiger Produkte verschrieben hat."
   }
 }

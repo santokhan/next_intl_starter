@@ -1,0 +1,46 @@
+{
+    "Index": {
+        "title": "Xin chào thế giới!",
+        "subtitle": "Chào mừng bạn đến với trang web của chúng tôi",
+        "description": "Chúng tôi rất vui khi bạn ở đây.",
+        "cta": "Bắt đầu ngay"
+    },
+    "Navigation": {
+        "home": "Trang chủ",
+        "about": "Về chúng tôi",
+        "services": "Dịch vụ",
+        "contact": "Liên hệ"
+    },
+    "Footer": {
+        "rights": "Bản quyền thuộc về chúng tôi.",
+        "terms": "Điều khoản dịch vụ",
+        "privacy": "Chính sách bảo mật"
+    },
+    "Auth": {
+        "login": "Đăng nhập",
+        "logout": "Đăng xuất",
+        "register": "Tạo tài khoản",
+        "email": "Địa chỉ email",
+        "password": "Mật khẩu"
+    },
+    "Errors": {
+        "404": "Không tìm thấy trang",
+        "500": "Lỗi máy chủ nội bộ",
+        "required": "Trường này là bắt buộc",
+        "invalid_email": "Địa chỉ email không hợp lệ"
+    },
+    "About": {
+        "title": "Về chúng tôi",
+        "headline": "Được thúc đẩy bởi sự đổi mới, cam kết về chất lượng",
+        "mission": "Sứ mệnh của chúng tôi là cung cấp các giải pháp đẳng cấp thế giới phù hợp với nhu cầu của bạn.",
+        "vision": "Chúng tôi hình dung một tương lai nơi công nghệ trao quyền cho mọi người và tổ chức.",
+        "values": {
+            "integrity": "Chính trực",
+            "excellence": "Xuất sắc",
+            "innovation": "Đổi mới",
+            "collaboration": "Hợp tác"
+        },
+        "team_heading": "Gặp gỡ đội ngũ của chúng tôi",
+        "team_description": "Chúng tôi là nhóm các chuyên gia đam mê, tận tâm xây dựng những sản phẩm tuyệt vời."
+    }
+}

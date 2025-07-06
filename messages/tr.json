@@ -1,0 +1,46 @@
+{
+    "Index": {
+        "title": "Merhaba dünya!",
+        "subtitle": "Web sitemize hoş geldiniz",
+        "description": "Sizi burada görmekten mutluluk duyuyoruz.",
+        "cta": "Başlayın"
+    },
+    "Navigation": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "services": "Hizmetler",
+        "contact": "İletişim"
+    },
+    "Footer": {
+        "rights": "Tüm hakları saklıdır.",
+        "terms": "Hizmet Şartları",
+        "privacy": "Gizlilik Politikası"
+    },
+    "Auth": {
+        "login": "Giriş Yap",
+        "logout": "Çıkış Yap",
+        "register": "Hesap Oluştur",
+        "email": "E-posta Adresi",
+        "password": "Şifre"
+    },
+    "Errors": {
+        "404": "Sayfa Bulunamadı",
+        "500": "Sunucu Hatası",
+        "required": "Bu alan zorunludur",
+        "invalid_email": "Geçersiz e-posta adresi"
+    },
+    "About": {
+        "title": "Hakkımızda",
+        "headline": "Yenilikle ilerliyoruz, kaliteye bağlıyız",
+        "mission": "Misyonumuz, ihtiyaçlarınıza özel dünya standartlarında çözümler sunmaktır.",
+        "vision": "Teknolojinin her birey ve kurumu güçlendirdiği bir gelecek hayal ediyoruz.",
+        "values": {
+            "integrity": "Dürüstlük",
+            "excellence": "Mükemmeliyet",
+            "innovation": "Yenilik",
+            "collaboration": "İşbirliği"
+        },
+        "team_heading": "Ekibimizle Tanışın",
+        "team_description": "Harika ürünler geliştirmeye adanmış tutkulu profesyonellerden oluşan bir ekibiz."
+    }
+}

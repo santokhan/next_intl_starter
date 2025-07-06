@@ -1,0 +1,46 @@
+{
+  "Index": {
+    "title": "Ciao mondo!",
+    "subtitle": "Benvenuto nel nostro sito web",
+    "description": "Siamo entusiasti di averti qui.",
+    "cta": "Inizia ora"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "Chi siamo",
+    "services": "Servizi",
+    "contact": "Contatti"
+  },
+  "Footer": {
+    "rights": "Tutti i diritti riservati.",
+    "terms": "Termini di servizio",
+    "privacy": "Informativa sulla privacy"
+  },
+  "Auth": {
+    "login": "Accedi",
+    "logout": "Esci",
+    "register": "Crea account",
+    "email": "Indirizzo email",
+    "password": "Password"
+  },
+  "Errors": {
+    "404": "Pagina non trovata",
+    "500": "Errore interno del server",
+    "required": "Questo campo è obbligatorio",
+    "invalid_email": "Indirizzo email non valido"
+  },
+  "About": {
+    "title": "Chi siamo",
+    "headline": "Guidati dall'innovazione, impegnati per la qualità",
+    "mission": "La nostra missione è fornire soluzioni di livello mondiale su misura per le tue esigenze.",
+    "vision": "Immaginiamo un futuro in cui la tecnologia dia potere a ogni persona e organizzazione.",
+    "values": {
+      "integrity": "Integrità",
+      "excellence": "Eccellenza",
+      "innovation": "Innovazione",
+      "collaboration": "Collaborazione"
+    },
+    "team_heading": "Il nostro team",
+    "team_description": "Siamo un gruppo di professionisti appassionati dedicati alla creazione di prodotti eccellenti."
+  }
+}
